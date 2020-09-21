@@ -10,7 +10,7 @@ public class ProxyFactory implements MethodInterceptor {
 
 	//维护一个目标对象
 	private Object target;
-	
+
 	//构造器，传入一个被代理的对象
 	public ProxyFactory(Object target) {
 		this.target = target;
@@ -26,9 +26,9 @@ public class ProxyFactory implements MethodInterceptor {
 		enhancer.setCallback(this);
 		//4. 创建子类对象，即代理对象
 		return enhancer.create();
-		
+
 	}
-	
+
 
 	//重写  intercept 方法，会调用目标对象的方法
 	@Override

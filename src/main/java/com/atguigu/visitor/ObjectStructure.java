@@ -7,7 +7,7 @@ import java.util.List;
 public class ObjectStructure {
 
 	//维护了一个集合
-	private List<Person> persons = new LinkedList<>();
+	private List<Person> persons = new LinkedList<Person>();
 	
 	//增加到list
 	public void attach(Person p) {
