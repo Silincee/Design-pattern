@@ -10,17 +10,14 @@ public class Singleton {
 
     private  static Singleton instance;
 
+    private static class SingletonInstance{
+        private final static Singleton INSTANCE = new Singleton();
+    }
+
     public Singleton() {
     }
 
     public static  Singleton getInstance(){
-        if (instance==null){
-            synchronized (Singleton.class){
-//                if (instance==null){
-                    instance=new Singleton();
-//                }
-            }
-        }
-        return  instance;
+        return SingletonInstance.INSTANCE;
     }
 }

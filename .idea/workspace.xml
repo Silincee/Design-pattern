@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36723a45-0211-4514-a749-8533ed1a7d57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rin/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rin/proxy/IStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rin/proxy/ProxyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rin/proxy/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rin/proxy/StudentDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/principle/liskov/Liskov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/principle/liskov/Liskov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/proxy/cglib/TeacherDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/ObjectStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/ObjectStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rin/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rin/singleton/Singleton.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +139,7 @@
       <workItem from="1600140581214" duration="2000" />
       <workItem from="1600140586768" duration="1000" />
       <workItem from="1600402975539" duration="2253000" />
-      <workItem from="1600672446402" duration="2141000" />
+      <workItem from="1600672446402" duration="2920000" />
     </task>
     <servers />
   </component>
