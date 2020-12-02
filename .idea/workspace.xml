@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36723a45-0211-4514-a749-8533ed1a7d57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/order/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/pizza/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/pizza/GreekPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/pizza/PepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type6/SingletonTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type6/SingletonTest06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type6/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type6/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type7/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type7/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rin/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rin/singleton/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/single.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type2/SingletonTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type2/SingletonTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type8/SingletonTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type8/SingletonTest08.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +51,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/rin/factory/simplefactory/pizzastore/pizza" />
       <recent name="$PROJECT_DIR$/src/main/java/com/rin/factory" />
@@ -78,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonTest08">
+  <component name="RunManager" selected="Application.SingletonTest02">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.proxy.cglib.Client" />
       <module name="设计模式" />
@@ -98,6 +94,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rin.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.singleton.type2.SingletonTest02" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.singleton.type2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonTest02" />
         <item itemvalue="Application.SingletonTest08" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client" />
@@ -163,6 +173,7 @@
       <workItem from="1600140586768" duration="1000" />
       <workItem from="1600402975539" duration="2253000" />
       <workItem from="1600672446402" duration="4380000" />
+      <workItem from="1606918441093" duration="1197000" />
     </task>
     <servers />
   </component>
