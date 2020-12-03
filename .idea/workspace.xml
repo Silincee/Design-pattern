@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36723a45-0211-4514-a749-8533ed1a7d57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/single.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type2/SingletonTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type2/SingletonTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type8/SingletonTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type8/SingletonTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/silince/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type3/SingletonTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type3/SingletonTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type7/SingletonTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type7/SingletonTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type2/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/singleton/type2/Singleton.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/atguigu/singleton/type5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -173,7 +174,7 @@
       <workItem from="1600140586768" duration="1000" />
       <workItem from="1600402975539" duration="2253000" />
       <workItem from="1600672446402" duration="4380000" />
-      <workItem from="1606918441093" duration="1197000" />
+      <workItem from="1606918441093" duration="3051000" />
     </task>
     <servers />
   </component>
